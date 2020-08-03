@@ -14,7 +14,7 @@ class Post extends Model
 
     //protected $primaryKey = 'post_id';
 
-
+    //test
 
 
 }
